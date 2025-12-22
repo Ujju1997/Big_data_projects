@@ -1,0 +1,38 @@
+[
+  { 
+    "relative_url": "Big_data_projects/refs/heads/main/toy_store_data/order_item_refunds.csv",
+    
+    "relative_file_name": "order_item_refunds.csv"
+  },
+
+ { 
+    "relative_url": "Big_data_projects/refs/heads/main/toy_store_data/order_items.csv",
+    
+    "relative_file_name": "order_items.csv"
+  },
+
+{ 
+    "relative_url": "Big_data_projects/refs/heads/main/toy_store_data/orders.csv",
+    
+    "relative_file_name": "orders.csv"
+  },
+
+{ 
+    "relative_url": "Big_data_projects/refs/heads/main/toy_store_data/products.csv",
+    
+    "relative_file_name": "products.csv"
+  },
+
+{ 
+    "relative_url": "Big_data_projects/refs/heads/main/toy_store_data/website_pageviews.csv",
+    
+    "relative_file_name": "website_pageviews.csv"
+  },
+
+{ 
+    "relative_url": "Big_data_projects/refs/heads/main/toy_store_data/website_sessions.csv",
+    
+    "relative_file_name": "website_sessions.csv"
+  }
+
+]
